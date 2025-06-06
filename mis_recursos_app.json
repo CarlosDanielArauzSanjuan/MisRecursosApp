@@ -1,0 +1,650 @@
+[{
+  "_id": {
+    "$oid": "68407fd3108a3c9cf414efa1"
+  },
+  "nombre": "Breaking Bad",
+  "genero": "Drama",
+  "plataforma": "Netflix",
+  "estado": "Terminado",
+  "formato": "Serie",
+  "fecha_terminacion": "2023-06-01",
+  "valoracion": 5,
+  "resena": "Obra maestra del drama moderno."
+},
+{
+  "_id": {
+    "$oid": "68407fd3108a3c9cf414efa2"
+  },
+  "nombre": "1984",
+  "genero": "Distopía",
+  "plataforma": "Kindle",
+  "estado": "Terminado",
+  "formato": "Libro",
+  "fecha_terminacion": "2024-01-18",
+  "valoracion": 4,
+  "resena": "Muy reflexivo."
+},
+{
+  "_id": {
+    "$oid": "68407fd3108a3c9cf414efa3"
+  },
+  "nombre": "Stranger Things",
+  "genero": "Ciencia Ficción",
+  "plataforma": "Netflix",
+  "estado": "En progreso",
+  "formato": "Serie",
+  "fecha_terminacion": "",
+  "valoracion": 0,
+  "resena": "una locura total !!"
+},
+{
+  "_id": {
+    "$oid": "68407fd3108a3c9cf414efa4"
+  },
+  "nombre": "El Principito",
+  "genero": "Fábula",
+  "plataforma": "Kindle",
+  "estado": "Terminado",
+  "formato": "Libro",
+  "fecha_terminacion": "2022-12-01",
+  "valoracion": 5,
+  "resena": "Sencillo pero profundo."
+},
+{
+  "_id": {
+    "$oid": "68407fd3108a3c9cf414efa5"
+  },
+  "nombre": "Chernobyl",
+  "genero": "Drama histórico",
+  "plataforma": "HBO",
+  "estado": "Terminado",
+  "formato": "Serie",
+  "fecha_terminacion": "2023-08-11",
+  "valoracion": 5,
+  "resena": "Muy impactante."
+},
+{
+  "_id": {
+    "$oid": "68407fd3108a3c9cf414efa6"
+  },
+  "nombre": "Dune",
+  "genero": "Ciencia Ficción",
+  "plataforma": "Amazon",
+  "estado": "Pendiente",
+  "formato": "Película",
+  "fecha_terminacion": "",
+  "valoracion": 0,
+  "resena": "la mejor adaptacion a epica, despues de LOTR"
+},
+{
+  "_id": {
+    "$oid": "68407fd3108a3c9cf414efa7"
+  },
+  "nombre": "Avatar",
+  "genero": "Aventura",
+  "plataforma": "Disney+",
+  "estado": "Terminado",
+  "formato": "Película",
+  "fecha_terminacion": "2023-03-22",
+  "valoracion": 4,
+  "resena": "Visualmente asombrosa."
+},
+{
+  "_id": {
+    "$oid": "68407fd3108a3c9cf414efa8"
+  },
+  "nombre": "Friends",
+  "genero": "Comedia",
+  "plataforma": "Netflix",
+  "estado": "En progreso",
+  "formato": "Serie",
+  "fecha_terminacion": "",
+  "valoracion": 0,
+  "resena": "un clasico de la comedia"
+},
+{
+  "_id": {
+    "$oid": "68407fd3108a3c9cf414efa9"
+  },
+  "nombre": "La Odisea",
+  "genero": "Clásico",
+  "plataforma": "Kindle",
+  "estado": "Terminado",
+  "formato": "Libro",
+  "fecha_terminacion": "2021-05-10",
+  "valoracion": 3,
+  "resena": "Interesante pero denso."
+},
+{
+  "_id": {
+    "$oid": "68407fd3108a3c9cf414efaa"
+  },
+  "nombre": "Interstellar",
+  "genero": "Ciencia Ficción",
+  "plataforma": "Amazon",
+  "estado": "Terminado",
+  "formato": "Película",
+  "fecha_terminacion": "2023-11-03",
+  "valoracion": 5,
+  "resena": "Una joya del cine."
+},
+{
+  "_id": {
+    "$oid": "68407fd3108a3c9cf414efab"
+  },
+  "nombre": "The Mandalorian",
+  "genero": "Aventura",
+  "plataforma": "Disney+",
+  "estado": "En progreso",
+  "formato": "Serie",
+  "fecha_terminacion": "",
+  "valoracion": 0,
+  "resena": ""
+},
+{
+  "_id": {
+    "$oid": "68407fd3108a3c9cf414efac"
+  },
+  "nombre": "El Alquimista",
+  "genero": "Inspiración",
+  "plataforma": "Kindle",
+  "estado": "Terminado",
+  "formato": "Libro",
+  "fecha_terminacion": "2023-04-01",
+  "valoracion": 5,
+  "resena": "Muy motivador."
+},
+{
+  "_id": {
+    "$oid": "68407fd3108a3c9cf414efad"
+  },
+  "nombre": "Bohemian Rhapsody",
+  "genero": "Biografía",
+  "plataforma": "Amazon",
+  "estado": "Terminado",
+  "formato": "Película",
+  "fecha_terminacion": "2022-09-20",
+  "valoracion": 4,
+  "resena": "Gran tributo a Queen."
+},
+{
+  "_id": {
+    "$oid": "68407fd3108a3c9cf414efae"
+  },
+  "nombre": "Don Quijote",
+  "genero": "Clásico",
+  "plataforma": "Kindle",
+  "estado": "Pendiente",
+  "formato": "Libro",
+  "fecha_terminacion": "",
+  "valoracion": 0,
+  "resena": "todo el mundo debe leerlo"
+},
+{
+  "_id": {
+    "$oid": "68407fd3108a3c9cf414efaf"
+  },
+  "nombre": "The Crown",
+  "genero": "Drama histórico",
+  "plataforma": "Netflix",
+  "estado": "En progreso",
+  "formato": "Serie",
+  "fecha_terminacion": "",
+  "valoracion": 0,
+  "resena": ""
+},
+{
+  "_id": {
+    "$oid": "68407fd3108a3c9cf414efb0"
+  },
+  "nombre": "The Office",
+  "genero": "Comedia",
+  "plataforma": "Netflix",
+  "estado": "Terminado",
+  "formato": "Serie",
+  "fecha_terminacion": "2022-10-01",
+  "valoracion": 5,
+  "resena": "Una comedia brillante."
+},
+{
+  "_id": {
+    "$oid": "68407fd3108a3c9cf414efb1"
+  },
+  "nombre": "Harry Potter y la piedra filosofal",
+  "genero": "Fantasía",
+  "plataforma": "Kindle",
+  "estado": "Terminado",
+  "formato": "Libro",
+  "fecha_terminacion": "2023-07-01",
+  "valoracion": 5,
+  "resena": "Un inicio mágico."
+},
+{
+  "_id": {
+    "$oid": "68407fd3108a3c9cf414efb2"
+  },
+  "nombre": "Game of Thrones",
+  "genero": "Fantasía",
+  "plataforma": "HBO",
+  "estado": "Terminado",
+  "formato": "Serie",
+  "fecha_terminacion": "2020-06-01",
+  "valoracion": 4,
+  "resena": "Final controversial."
+},
+{
+  "_id": {
+    "$oid": "68407fd3108a3c9cf414efb3"
+  },
+  "nombre": "La Casa de Papel",
+  "genero": "Acción",
+  "plataforma": "Netflix",
+  "estado": "En progreso",
+  "formato": "Serie",
+  "fecha_terminacion": "",
+  "valoracion": 0,
+  "resena": "genial, pero un poco tosca"
+},
+{
+  "_id": {
+    "$oid": "68407fd3108a3c9cf414efb4"
+  },
+  "nombre": "Los Juegos del Hambre",
+  "genero": "Distopía",
+  "plataforma": "Amazon",
+  "estado": "Terminado",
+  "formato": "Película",
+  "fecha_terminacion": "2021-11-15",
+  "valoracion": 4,
+  "resena": "Fiel a los libros."
+},
+{
+  "_id": {
+    "$oid": "68407fd3108a3c9cf414efb5"
+  },
+  "nombre": "Matrix",
+  "genero": "Ciencia Ficción",
+  "plataforma": "Netflix",
+  "estado": "Terminado",
+  "formato": "Película",
+  "fecha_terminacion": "2021-04-11",
+  "valoracion": 5,
+  "resena": "Filosófica y revolucionaria."
+},
+{
+  "_id": {
+    "$oid": "68407fd3108a3c9cf414efb6"
+  },
+  "nombre": "Avatar: El camino del agua",
+  "genero": "Fantasía",
+  "plataforma": "Disney+",
+  "estado": "Terminado",
+  "formato": "Película",
+  "fecha_terminacion": "2024-01-20",
+  "valoracion": 4,
+  "resena": "Visualmente deslumbrante."
+},
+{
+  "_id": {
+    "$oid": "68407fd3108a3c9cf414efb7"
+  },
+  "nombre": "El Hobbit",
+  "genero": "Fantasía",
+  "plataforma": "Kindle",
+  "estado": "Terminado",
+  "formato": "Libro",
+  "fecha_terminacion": "2023-09-30",
+  "valoracion": 5,
+  "resena": "Clásico y épico."
+},
+{
+  "_id": {
+    "$oid": "68407fd3108a3c9cf414efb8"
+  },
+  "nombre": "Peaky Blinders",
+  "genero": "Drama",
+  "plataforma": "Netflix",
+  "estado": "En progreso",
+  "formato": "Serie",
+  "fecha_terminacion": "",
+  "valoracion": 0,
+  "resena": "no para todas las personas"
+},
+{
+  "_id": {
+    "$oid": "68408050108a3c9cf414efba"
+  },
+  "nombre": "Star Wars: Episodio IV",
+  "genero": "Ciencia Ficción",
+  "plataforma": "Disney+",
+  "estado": "Terminado",
+  "formato": "Película",
+  "fecha_terminacion": "2022-01-05",
+  "valoracion": 5,
+  "resena": "Una saga legendaria comienza aquí."
+},
+{
+  "_id": {
+    "$oid": "68408050108a3c9cf414efbb"
+  },
+  "nombre": "The Social Network",
+  "genero": "Biografía",
+  "plataforma": "Amazon",
+  "estado": "Terminado",
+  "formato": "Película",
+  "fecha_terminacion": "2021-08-15",
+  "valoracion": 4,
+  "resena": "Interesante historia sobre Facebook."
+},
+{
+  "_id": {
+    "$oid": "68408050108a3c9cf414efbc"
+  },
+  "nombre": "Sherlock Holmes",
+  "genero": "Misterio",
+  "plataforma": "Netflix",
+  "estado": "Terminado",
+  "formato": "Película",
+  "fecha_terminacion": "2020-12-10",
+  "valoracion": 4,
+  "resena": "Muy entretenida."
+},
+{
+  "_id": {
+    "$oid": "68408050108a3c9cf414efbd"
+  },
+  "nombre": "Merlín",
+  "genero": "Fantasía",
+  "plataforma": "Netflix",
+  "estado": "En progreso",
+  "formato": "Serie",
+  "fecha_terminacion": "",
+  "valoracion": 0,
+  "resena": ""
+},
+{
+  "_id": {
+    "$oid": "68408050108a3c9cf414efbe"
+  },
+  "nombre": "Sapiens",
+  "genero": "Historia",
+  "plataforma": "Kindle",
+  "estado": "Terminado",
+  "formato": "Libro",
+  "fecha_terminacion": "2022-06-21",
+  "valoracion": 5,
+  "resena": "Transformador."
+},
+{
+  "_id": {
+    "$oid": "68408050108a3c9cf414efbf"
+  },
+  "nombre": "Doctor Strange",
+  "genero": "Acción",
+  "plataforma": "Disney+",
+  "estado": "Terminado",
+  "formato": "Película",
+  "fecha_terminacion": "2023-03-05",
+  "valoracion": 4,
+  "resena": "Muy visual y original."
+},
+{
+  "_id": {
+    "$oid": "68408050108a3c9cf414efc0"
+  },
+  "nombre": "Blade Runner 2049",
+  "genero": "Ciencia Ficción",
+  "plataforma": "Amazon",
+  "estado": "Pendiente",
+  "formato": "Película",
+  "fecha_terminacion": "",
+  "valoracion": 0,
+  "resena": ""
+},
+{
+  "_id": {
+    "$oid": "68408050108a3c9cf414efc1"
+  },
+  "nombre": "Black Mirror",
+  "genero": "Distopía",
+  "plataforma": "Netflix",
+  "estado": "En progreso",
+  "formato": "Serie",
+  "fecha_terminacion": "",
+  "valoracion": 0,
+  "resena": ""
+},
+{
+  "_id": {
+    "$oid": "68408050108a3c9cf414efc2"
+  },
+  "nombre": "Steve Jobs",
+  "genero": "Biografía",
+  "plataforma": "Amazon",
+  "estado": "Terminado",
+  "formato": "Película",
+  "fecha_terminacion": "2022-10-02",
+  "valoracion": 4,
+  "resena": "Muy inspirador."
+},
+{
+  "_id": {
+    "$oid": "68408050108a3c9cf414efc3"
+  },
+  "nombre": "El Perfume",
+  "genero": "Thriller",
+  "plataforma": "Kindle",
+  "estado": "Terminado",
+  "formato": "Libro",
+  "fecha_terminacion": "2023-02-11",
+  "valoracion": 4,
+  "resena": "Muy perturbador y único."
+},
+{
+  "_id": {
+    "$oid": "68408050108a3c9cf414efc4"
+  },
+  "nombre": "House of the Dragon",
+  "genero": "Fantasía",
+  "plataforma": "HBO",
+  "estado": "Pendiente",
+  "formato": "Serie",
+  "fecha_terminacion": "",
+  "valoracion": 0,
+  "resena": ""
+},
+{
+  "_id": {
+    "$oid": "68408050108a3c9cf414efc5"
+  },
+  "nombre": "The Matrix Resurrections",
+  "genero": "Ciencia Ficción",
+  "plataforma": "HBO",
+  "estado": "Terminado",
+  "formato": "Película",
+  "fecha_terminacion": "2023-07-19",
+  "valoracion": 3,
+  "resena": "Algo floja comparada a la original."
+},
+{
+  "_id": {
+    "$oid": "68408050108a3c9cf414efc6"
+  },
+  "nombre": "Coco",
+  "genero": "Animación",
+  "plataforma": "Disney+",
+  "estado": "Terminado",
+  "formato": "Película",
+  "fecha_terminacion": "2022-11-01",
+  "valoracion": 5,
+  "resena": "Muy emotiva y hermosa."
+},
+{
+  "_id": {
+    "$oid": "68408050108a3c9cf414efc7"
+  },
+  "nombre": "Narcos",
+  "genero": "Crimen",
+  "plataforma": "Netflix",
+  "estado": "En progreso",
+  "formato": "Serie",
+  "fecha_terminacion": "",
+  "valoracion": 0,
+  "resena": ""
+},
+{
+  "_id": {
+    "$oid": "68408050108a3c9cf414efc8"
+  },
+  "nombre": "El Código Da Vinci",
+  "genero": "Misterio",
+  "plataforma": "Kindle",
+  "estado": "Terminado",
+  "formato": "Libro",
+  "fecha_terminacion": "2021-04-20",
+  "valoracion": 5,
+  "resena": "Muy atrapante."
+},
+{
+  "_id": {
+    "$oid": "68408050108a3c9cf414efc9"
+  },
+  "nombre": "Encanto",
+  "genero": "Animación",
+  "plataforma": "Disney+",
+  "estado": "Terminado",
+  "formato": "Película",
+  "fecha_terminacion": "2022-12-05",
+  "valoracion": 4,
+  "resena": "Muy colorida y musical."
+},
+{
+  "_id": {
+    "$oid": "68408050108a3c9cf414efca"
+  },
+  "nombre": "The Boys",
+  "genero": "Superhéroes",
+  "plataforma": "Amazon",
+  "estado": "En progreso",
+  "formato": "Serie",
+  "fecha_terminacion": "",
+  "valoracion": 0,
+  "resena": ""
+},
+{
+  "_id": {
+    "$oid": "68408050108a3c9cf414efcb"
+  },
+  "nombre": "Ready Player One",
+  "genero": "Ciencia Ficción",
+  "plataforma": "Kindle",
+  "estado": "Terminado",
+  "formato": "Libro",
+  "fecha_terminacion": "2023-06-10",
+  "valoracion": 4,
+  "resena": "Muy entretenido y visual."
+},
+{
+  "_id": {
+    "$oid": "68408050108a3c9cf414efcc"
+  },
+  "nombre": "The Irishman",
+  "genero": "Crimen",
+  "plataforma": "Netflix",
+  "estado": "Pendiente",
+  "formato": "Película",
+  "fecha_terminacion": "",
+  "valoracion": 0,
+  "resena": ""
+},
+{
+  "_id": {
+    "$oid": "68408050108a3c9cf414efcd"
+  },
+  "nombre": "Dark",
+  "genero": "Ciencia Ficción",
+  "plataforma": "Netflix",
+  "estado": "Terminado",
+  "formato": "Serie",
+  "fecha_terminacion": "2022-08-15",
+  "valoracion": 5,
+  "resena": "Una serie compleja y genial."
+},
+{
+  "_id": {
+    "$oid": "68408050108a3c9cf414efce"
+  },
+  "nombre": "Interestelar",
+  "genero": "Ciencia Ficción",
+  "plataforma": "Amazon",
+  "estado": "Terminado",
+  "formato": "Película",
+  "fecha_terminacion": "2021-10-04",
+  "valoracion": 5,
+  "resena": "Muy profunda y emotiva."
+},
+{
+  "_id": {
+    "$oid": "68408050108a3c9cf414efcf"
+  },
+  "nombre": "Soul",
+  "genero": "Animación",
+  "plataforma": "Disney+",
+  "estado": "Terminado",
+  "formato": "Película",
+  "fecha_terminacion": "2021-01-02",
+  "valoracion": 5,
+  "resena": "Inspiradora y hermosa."
+},
+{
+  "_id": {
+    "$oid": "68408050108a3c9cf414efd0"
+  },
+  "nombre": "Cazadores de sombras",
+  "genero": "Fantasía",
+  "plataforma": "Kindle",
+  "estado": "En progreso",
+  "formato": "Libro",
+  "fecha_terminacion": "",
+  "valoracion": 0,
+  "resena": ""
+},
+{
+  "_id": {
+    "$oid": "68408050108a3c9cf414efd1"
+  },
+  "nombre": "Loki",
+  "genero": "Superhéroes",
+  "plataforma": "Disney+",
+  "estado": "En progreso",
+  "formato": "Serie",
+  "fecha_terminacion": "",
+  "valoracion": 0,
+  "resena": ""
+},
+{
+  "_id": {
+    "$oid": "6840807f108a3c9cf414efd3"
+  },
+  "nombre": "El Hobbit",
+  "genero": "Fantasía",
+  "plataforma": "Kindle",
+  "estado": "Terminado",
+  "formato": "Libro",
+  "fecha_terminacion": "2024-05-10",
+  "valoracion": 5,
+  "resena": "Una aventura clásica muy entretenida."
+},
+{
+  "_id": {
+    "$oid": "684080b4108a3c9cf414efd5"
+  },
+  "nombre": "Titanic",
+  "genero": "Romance",
+  "plataforma": "Amazon",
+  "estado": "Terminado",
+  "formato": "Película",
+  "fecha_terminacion": "2023-02-14",
+  "valoracion": 5,
+  "resena": "Una historia emotiva y trágica, muy bien contada."
+}]
